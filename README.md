@@ -1,5 +1,7 @@
 <h1 align="center">Shelter</h1>
 <h6 align="center">Shelter - сайт для приюта животных.</h6>
+
+![alt tag](https://github.com/ChroMari/shelter/blob/main/shelter.png)
  
 <a href="https://chromari-english-for-kids.netlify.app/"><b>Shelter</b></a>
 
